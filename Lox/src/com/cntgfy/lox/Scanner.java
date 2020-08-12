@@ -1,4 +1,4 @@
-package com.cntgfy;
+package com.cntgfy.lox;
 
 // TODO: 11.08.2020 Make int fields local
 // TODO: 11.08.2020 Refactor scanToken() with hash
@@ -11,7 +11,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static com.cntgfy.TokenType.*;
+import static com.cntgfy.lox.TokenType.*;
 
 public class Scanner {
     private final String source;

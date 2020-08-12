@@ -1,4 +1,4 @@
-package com.cntgfy;
+package com.cntgfy.lox;
 
 // TODO: 11.08.2020 Nice error message like this
 //Error: Unexpected "," in argument list.
